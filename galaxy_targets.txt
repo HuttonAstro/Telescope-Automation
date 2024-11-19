@@ -1,0 +1,10 @@
+{"NGC3347": {"RA": 10.713055, "Dec": -36.352528, "EXP": 30, "NUM": 3, "Filter": "None", "ExposureTaken": 0},
+ "NGC3411": {"RA": 10.840584, "Dec": -12.845083, "EXP": 30, "NUM": 3, "Filter": "None", "ExposureTaken": 0},
+ "NGC3271": {"RA": 10.507358, "Dec": -35.359528, "EXP": 30, "NUM": 3, "Filter": "None", "ExposureTaken": 0},
+ "NGC3268": {"RA": 10.500181, "Dec": -35.325500, "EXP": 30, "NUM": 3, "Filter": "None", "ExposureTaken": 0},
+ "NGC3258": {"RA": 10.481552, "Dec": -35.605556, "EXP": 30, "NUM": 3, "Filter": "None", "ExposureTaken": 0},
+ "NGC3281": {"RA": 10.531135, "Dec": -34.853722, "EXP": 30, "NUM": 3, "Filter": "None", "ExposureTaken": 0},
+ "NGC3249": {"RA": 10.412805, "Dec": -34.963722, "EXP": 30, "NUM": 3, "Filter": "None", "ExposureTaken": 0},
+ "NGC3278": {"RA": 10.526388, "Dec": -39.954611, "EXP": 30, "NUM": 3, "Filter": "None", "ExposureTaken": 0},
+ "NGC3250": {"RA": 10.441944, "Dec": -39.943917, "EXP": 30, "NUM": 3, "Filter": "None", "ExposureTaken": 0},
+ "NGC3244": {"RA": 10.424777, "Dec": -39.827556, "EXP": 30, "NUM": 3, "Filter": "None", "ExposureTaken": 0}}
